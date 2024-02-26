@@ -1,91 +1,99 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Tomas Marvan CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Ing. Tomáš Marvan
+Java developer & architekt 
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="tomas.marvan@gmail.com">tomas.marvan@gmail.com</a>
 </div>
 
 
-## Currently
+## Současnost
 
-Standing on the shoulders of giants
+### Java developer & architekt v CETIN a.s.
 
-### Specialized in
+Vývoj, rozvoj a údržba backend systému pro selfcare frontend a základní integraci partnerů do světa CETIN. Rozsah 
+cca 15 Spring Boot mikroslužeb, připraveno a otestováno pro přechod do Openshift (produkčně běží bez orchestrace na bare metal serverech).     
+Java 11,17; Spring Boot 2.5; Spring Cloud 2020; PostgreSQL; Elasticsearch 6.8,7.17
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+### S čím nejraději pracuji 
 
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
-
-## Education
-
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+Java, JUnit, Maven, Spring, Spring Boot, Docker, Kubernetes, Openshift, Helm, Elasticsearch, PostgreSQL, 
+Asciidoctor, Antora, Devops Pipelines (e.g. Gitlab) 
+... a rád se učím novým technologiím, nejraději těm, které si dobře rozumí s Java světem.  
 
 
+V neposlední řadě je pro mě důležitý kolektiv a důvěra v tým. Rád se od ostatních učím a pokud to mohu nabídnout, 
+tak i rád předávám mé znalosti dále. 
 
-## Awards
+## Vzdělání
 
-`2012`
-President, *Royal Society*, London, UK
+`2010 - 2016`
+__České vysoké učení technické v Praze, Fakulta Elektrotechnická__
 
-Associate, *French Academy of Science*, Paris, France
+- Bc. a Ing. obor Otevřená informatika - Softwarové inženýrství
 
+`2014 - 2015`
+__Leibniz Universität Hannover__
 
+- dva semetry v rámci programu Erasmus - Computes science 
 
-## Publications
+`2007 - 2010`
+__Gymnázium, Praha 6, Arabská 14__
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+- studijní obor Programování
 
-### Journals
+## Pracovní zkušenosti
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+`2018 - současnost`
+__CETIN a.s.__ 
 
-`1669`
-Lectiones opticæ.
+Návrh, realizace a vývoj backend systému pro nový selfcare. Java 11, Spring Boot 2.1-2.5.
 
-etc. etc. etc.
+`10/2016 - 2018`
+__CETIN a.s.__
 
-### Patents
+Vývoj public i private aplikací v rámci portálu CETIN. Java 7-8, portlet spec Liferay 6.2. 
 
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+`09/2016 - 10/2016`
+__Trask solutions a.s.__
 
+Spolupráce na oživení projektu v AngularJS a Java. 
 
-## Occupation
+`06/2015 - 08/2015`
+__Technische Informationsbibliothek (TIB), Hannover__
 
-`1600`
-__Royal Mint__, London
+Tříměsíční stáž v technické knihovně při univerzitě v Hannoveru. Návrh a vývoj aplikace pro automatické stahování 
+odborných videí (např. nahrané přednášky) a jejich metadat. Python 
 
-- Warden
-- Minted coins
+`06/2011 - 08/2016`
+__IKA DATA, spol. s r.o.__
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+Správa a vývoj modulů pro systém Archibus (Facility management). Java, Javascript, SQL, XML.
 
+## Ostatní
 
+### Jazykové znalosti
+
+__čeština__: rodný jazyk 
+
+__angličtina__: B2 - učím se již od základní školy. Na komunikační úrovni a čtení tehcniké dokumentace nemám problém s 
+každodenním používáním. V psaných (netechnických) textech cítím svou slabinu, proto B2 :). 
+
+__němčina__: B2 - v němčině jsem dva semestry studoval a komunikoval během mojí stáže v technické knihovně. 
+Již delší dobu aktivně jazyk nepoužívám. Nicméně věřím, že bych byl schopen "naskočit" zpět, pokud by to bylo potřeba.   
+
+### Zájmy
+
+__sport__: Od malička mě baví aktivní pohyb téměř všecho druhu. Zejména mountain biking, volejbal a hokej.
+
+__Sokol__: V Sokole působím též od dětství. V současné době mě naplňuje vedení hodim pro děti se zaměřením na sportovní všestrannost. 
+V létě pravidleně oranizujeme 14-ti denní tábor.
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Aktualizováno: Únor 2024 -->
 
 
